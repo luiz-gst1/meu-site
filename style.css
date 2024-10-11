@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul{
@@ -8,4 +9,9 @@ ul{
     justify-content: space-between;
     list-style-type: none;
     align-items: 16px;
+}
+
+a{
+  color:white;
+  text-decoration: none;
 }
